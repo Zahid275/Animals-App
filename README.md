@@ -1,16 +1,16 @@
-# animals_info
+# animals app
+This app allows users to explore the fascinating world of animals by listening to their unique sounds and learning interesting facts about each species. With a simple and intuitive interface, users can:
 
-A new Flutter project.
+##Listen to Animal Sounds:
+Enjoy high-quality audio clips of different animals, from domestic pets to wild creatures, and experience the sounds of nature like never before.
+##
+##Discover Fun Facts: Get detailed information about various animals, including their habitats, behavior, diet, and more.
+Engage with a Wide Range of Animals: The app features a diverse collection of animals across different categories like mammals, birds, reptiles, and more.
+Perfect for animal lovers, educators, and anyone curious about wildlife, this app offers an interactive way to learn while having fun.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##Screens of Application
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Intro Page](Screenshots/1.jpg)
+#
+![Intro Page](Screenshots/animal info.jpg)
