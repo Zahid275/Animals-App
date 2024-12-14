@@ -13,4 +13,4 @@ Perfect for animal lovers, educators, and anyone curious about wildlife, this ap
 
 ![Intro Page](Screenshots/1.jpg)
 #
-![Intro Page](Screenshots/animal info.jpg)
+![Intro Page](Screenshots/animal%20info.jpg)
